@@ -1,1 +1,3 @@
-Main disk has {{space}} mb empty space
+Main disk has {{space}} {{unit}} empty space
+You have {{space}} {{unit}} empty space
+About {{space}} {{unit}}
